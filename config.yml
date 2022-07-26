@@ -1,5 +1,5 @@
-baseURL: http://example.org/
-languageCode: en-us
+baseURL: https://cuentos.netlify.app
+languageCode: es-ES
 title: Cuentos
 theme: "PaperMod"
 

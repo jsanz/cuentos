@@ -14,6 +14,8 @@ params:
           url: "https://links.jorgesanz.net"
         - name: "twitter"
           url: "https://twitter.com/xurxosanz"
+        - name: "github"
+          url: "https://github.com/jsanz/cuentos"
     homeInfoParams:
         Title: Cuentos para dormir 😴
         Content: >

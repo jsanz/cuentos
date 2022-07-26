@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,600;0,8..144,800;1,8..144,400;1,8..144,600;1,8..144,800&display=swap');
+
+.post-content{
+    font-family: 'Roboto Serif', serif;
+    font-size: 20px;
+}

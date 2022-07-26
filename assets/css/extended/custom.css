@@ -4,3 +4,7 @@
     font-family: 'Roboto Serif', serif;
     font-size: 20px;
 }
+
+.post-content .source{
+    font-size: smaller;
+}

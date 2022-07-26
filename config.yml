@@ -4,7 +4,18 @@ title: Cuentos
 theme: "PaperMod"
 
 params:
+    DateFormat: "2006-01-02"
     ShowReadingTime: true
+    ShowPostNavLinks: true
+    ShowShareButtons: true
+    ShareButtons: ["twitter", "facebook", "whatsapp", "telegram"]
+    socialIcons:
+        - name: "other"
+          url: "https://links.jorgesanz.net"
+        - name: "twitter"
+          url: "https://twitter.com/xurxosanz"
     homeInfoParams:
-        Title: Cuentos
-        Content: Unos cuentos para dormir
+        Title: Cuentos para dormir 😴
+        Content: >
+                Algunos cuentos cortos recopilados por
+                <a href="https://jorgesanz.net">Jorge Sanz</a>
